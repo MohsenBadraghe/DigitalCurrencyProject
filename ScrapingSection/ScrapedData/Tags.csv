@@ -1,0 +1,535 @@
+,CurrencyId,Tag
+0,1,Mineable
+1,1,PoW
+2,1,SHA-256
+3,2,PoS
+4,2,Smart Contracts
+5,2,Ethereum Ecosystem
+6,3,Payments
+7,3,Stablecoin
+8,3,Asset-Backed Stablecoin
+9,4,Marketplace
+10,4,Centralized Exchange (CEX) Token
+11,4,Payments
+12,5,Medium of Exchange
+13,5,Enterprise Solutions
+14,5,Arrington XRP Capital Portfolio
+15,6,Medium of Exchange
+16,6,Stablecoin
+17,6,Asset-Backed Stablecoin
+18,7,DPoS
+19,7,PoS
+20,7,Platform
+21,8,Mineable
+22,8,PoW
+23,8,Scrypt
+24,9,PoS
+25,9,Platform
+26,9,Solana Ecosystem
+27,10,Media
+28,10,Payments
+29,10,TRON Ecosystem
+30,11,Substrate
+31,11,Polkadot
+32,11,Binance Chain
+33,12,DeFi
+34,12,Stablecoin
+35,12,Asset-Backed Stablecoin
+36,13,PoS
+37,13,Platform
+38,13,Enterprise Solutions
+39,14,PoS
+40,14,DWF Labs Portfolio
+41,15,Mineable
+42,15,PoW
+43,15,Scrypt
+44,16,Memes
+45,16,Ethereum Ecosystem
+46,17,Medium of Exchange
+47,17,DeFi
+48,17,Wrapped Tokens
+49,18,Mineable
+50,18,PoW
+51,18,SHA-256
+52,19,Marketplace
+53,19,Centralized Exchange (CEX) Token
+54,19,Discount Token
+55,20,DeFi
+56,20,Smart Contracts
+57,20,Three Arrows Capital Portfolio
+58,21,Medium of Exchange
+59,21,Enterprise Solutions
+60,21,Decentralized Exchange (DEX) Token
+61,22,Platform
+62,22,DeFi
+63,22,Oracles
+64,23,Stablecoin
+65,23,Asset-Backed Stablecoin
+66,23,Binance Chain
+67,24,Store Of Value
+68,24,Stablecoin
+69,24,Asset-Backed Stablecoin
+70,25,Decentralized Exchange (DEX) Token
+71,25,DeFi
+72,25,DAO
+73,26,Mineable
+74,26,PoW
+75,26,Medium of Exchange
+76,27,Marketplace
+77,27,Centralized Exchange (CEX) Token
+78,27,Discount Token
+79,28,Platform
+80,28,Cosmos Ecosystem
+81,28,Content Creation
+82,29,Mineable
+83,29,PoW
+84,29,Ethash
+85,30,DAG
+86,30,Marketplace
+87,30,Enterprise Solutions
+88,31,Platform
+89,31,Distributed Computing
+90,31,Collectibles & NFTs
+91,32,Mineable
+92,32,Distributed Computing
+93,32,Filesharing
+94,33,Ethereum Ecosystem
+95,33,Layer 2
+96,34,DeFi
+97,34,DAO
+98,34,Three Arrows Capital Portfolio
+99,35,Medium of Exchange
+100,35,Cosmos Ecosystem
+101,35,Centralized Exchange (CEX) Token
+102,36,Binance Labs Portfolio
+103,36,Aptos Ecosystem
+104,36,Circle Ventures Portfolio
+105,37,Platform
+106,38,Scaling
+107,38,DAO
+108,38,DApp
+109,39,Logistics
+110,39,Data Provenance
+111,39,IoT
+112,40,Platform
+113,40,Staking
+114,40,Coinbase Ventures Portfolio
+115,41,Layer 2
+116,42,Store Of Value
+117,42,DeFi
+118,42,DAO
+119,43,DeFi
+120,43,DAO
+121,43,Yield Farming
+122,44,AI & Big Data
+123,44,Enterprise Solutions
+124,44,DeFi
+125,45,PoS
+126,45,Platform
+127,45,Research
+128,46,Enterprise Solutions
+129,46,Smart Contracts
+130,46,XDC Ecosystem
+131,47,Stablecoin
+132,47,Algorithmic Stablecoin
+133,47,Arbitrum Ecosystem
+134,48,Collectibles & NFTs
+135,48,Gaming
+136,48,Binance Launchpad
+137,49,Collectibles & NFTs
+138,49,Content Creation
+139,49,Gaming
+140,50,PoS
+141,50,Platform
+142,50,Enterprise Solutions
+143,51,Mineable
+144,51,Platform
+145,51,Collectibles & NFTs
+146,52,Binance Launchpad
+147,52,Binance Labs Portfolio
+148,52,Electric Capital Portfolio
+149,53,Medium of Exchange
+150,53,Enterprise Solutions
+151,53,Smart Contracts
+152,54,Media
+153,54,Collectibles & NFTs
+154,54,Content Creation
+155,55,Collectibles & NFTs
+156,55,Zero Knowledge Proofs
+157,55,Gaming
+158,56,PoS
+159,56,Platform
+160,56,Cosmos Ecosystem
+161,57,Platform
+162,57,Enterprise Solutions
+163,57,DeFi
+164,58,Mineable
+165,58,PoW
+166,58,SHA-256
+167,59,Platform
+168,59,Collectibles & NFTs
+169,59,Gaming
+170,60,Services
+171,60,Decentralized Exchange (DEX) Token
+172,60,DeFi
+173,61,Art
+174,61,Media
+175,61,VR/AR
+176,62,Collectibles & NFTs
+177,62,Content Creation
+178,62,Gaming
+179,63,Store Of Value
+180,63,Stablecoin
+181,63,Asset-Backed Stablecoin
+182,64,Platform
+183,64,Enterprise Solutions
+184,65,Cosmos Ecosystem
+185,65,Decentralized Exchange (DEX) Token
+186,65,DeFi
+187,66,Cosmos Ecosystem
+188,66,DeFi
+189,66,Binance Launchpad
+190,67,BNB Chain
+191,69,Layer 1
+192,70,Platform
+193,70,Collectibles & NFTs
+194,70,Staking
+195,71,DeFi
+196,72,Sports
+197,72,Collectibles & NFTs
+198,72,Content Creation
+199,73,Collectibles & NFTs
+200,73,Gaming
+201,73,BNB Smart Chain
+202,74,Platform
+203,74,Enterprise Solutions
+204,75,Marketplace
+205,75,Centralized Exchange (CEX) Token
+206,75,Discount Token
+207,76,DeFi
+208,76,Seigniorage
+209,76,Avalanche Ecosystem
+210,77,DAG
+211,77,Medium of Exchange
+212,77,IoT
+213,78,Mineable
+214,78,PoW
+215,78,Equihash
+216,79,Enterprise Solutions
+217,79,Arrington XRP Capital Portfolio
+218,79,Hashkey Capital Portfolio
+219,80,Binance Launchpool
+220,80,Coinbase Ventures Portfolio
+221,80,Binance Labs Portfolio
+222,81,Marketplace
+223,81,Centralized Exchange (CEX) Token
+224,81,Discount Token
+225,82,Platform
+226,82,Distributed Computing
+227,82,Filesharing
+228,83,Decentralized Exchange (DEX) Token
+229,83,DeFi
+230,83,DAO
+231,84,Mineable
+232,84,PoW
+233,84,Platform
+234,85,PoS
+235,85,Zero Knowledge Proofs
+236,85,Staking
+237,86,Marketplace
+238,86,Centralized Exchange (CEX) Token
+239,86,Discount Token
+240,87,Cosmos Ecosystem
+241,87,Store Of Value
+242,87,DeFi
+243,88,Wallet
+244,88,Polygon Ecosystem
+245,90,DeFi
+246,90,Derivatives
+247,90,Zero Knowledge Proofs
+248,91,DeFi
+249,91,DAO
+250,91,Yield Farming
+251,92,Services
+252,92,Payments
+253,92,Cardano Ecosystem
+254,93,Derivatives
+255,93,DEX
+256,93,Avalanche Ecosystem
+257,94,Memes
+258,95,Art
+259,95,Collectibles & NFTs
+260,96,Centralized Exchange (CEX) Token
+261,96,Three Arrows Capital Portfolio
+262,96,Exnetwork Capital Portfolio
+263,97,Store Of Value
+264,97,Stablecoin
+265,97,Asset-Backed Stablecoin
+266,98,DWF Labs Portfolio
+267,99,Polkadot
+268,99,Polkadot Ecosystem
+269,99,OKEx Blockdream Ventures Portfolio
+270,100,Mineable
+271,100,Hybrid - PoW & PoS
+272,100,X11
+273,101,Cosmos Ecosystem
+274,101,AI & Big Data
+275,101,Distributed Computing
+276,102,Collectibles & NFTs
+277,102,Decentralized Exchange (DEX) Token
+278,102,DeFi
+279,103,Marketplace
+280,103,Centralized Exchange (CEX) Token
+281,104,Distributed Computing
+282,104,Filesharing
+283,104,Storage
+284,105,Mineable
+285,105,Platform
+286,105,Payments
+287,106,Cosmos Ecosystem
+288,106,AI & Big Data
+289,106,Collectibles & NFTs
+290,107,Services
+291,107,Decentralized Exchange (DEX) Token
+292,107,DeFi
+293,108,Marketing
+294,108,Content Creation
+295,108,DeFi
+296,109,Wallet
+297,109,Binance Launchpad
+298,109,Injective Ecosystem
+299,110,Decentralized Exchange (DEX) Token
+300,110,DeFi
+301,110,Wallet
+302,111,Coinbase Ventures Portfolio
+303,111,Multicoin Capital Portfolio
+304,111,Layer 1
+305,112,PoST
+306,112,Decentralized Exchange (DEX) Token
+307,112,DeFi
+308,113,Marketplace
+309,113,Decentralized Exchange (DEX) Token
+310,113,DeFi
+311,114,Media
+312,114,Collectibles & NFTs
+313,114,Gaming
+314,115,Mineable
+315,115,Enterprise Solutions
+316,115,Distributed Computing
+317,116,Platform
+318,116,Smart Contracts
+319,116,Kenetic Capital Portfolio
+320,117,DAO
+321,117,Governance
+322,117,Web3
+323,118,PoI
+324,118,Medium of Exchange
+325,118,Payments
+326,119,Mineable
+327,119,Medium of Exchange
+328,119,Payments
+329,120,Marketplace
+330,120,AI & Big Data
+331,120,Payments
+332,121,DeFi
+333,122,Communications & Social Media
+334,122,Collectibles & NFTs
+335,122,Content Creation
+336,123,PoS
+337,123,Zero Knowledge Proofs
+338,123,Mobile
+339,124,Media
+340,124,Content Creation
+341,124,DeFi
+342,125,Mineable
+343,125,Hybrid - PoW & PoS
+344,125,BLAKE256
+345,126,Platform
+346,126,Cosmos Ecosystem
+347,126,Enterprise Solutions
+348,127,Mineable
+349,127,PoW
+350,127,Platform
+351,128,Cosmos Ecosystem
+352,129,Platform
+353,129,AI & Big Data
+354,129,DeFi
+355,130,DeFi
+356,130,DAO
+357,130,Yield Farming
+358,131,Coinfund Portfolio
+359,131,DCG Portfolio
+360,131,Pantera Capital Portfolio
+361,132,Platform
+362,132,Distributed Computing
+363,132,Filesharing
+364,133,DeFi
+365,134,Collectibles & NFTs
+366,134,Gaming
+367,134,BNB Smart Chain
+368,135,Decentralized Exchange (DEX) Token
+369,135,DeFi
+370,135,DAO
+371,136,Marketplace
+372,136,Enterprise Solutions
+373,136,Arrington XRP Capital Portfolio
+374,137,Cosmos Ecosystem
+375,137,AI & Big Data
+376,137,Collectibles & NFTs
+377,139,LPoS
+378,139,Platform
+379,139,Smart Contracts
+380,140,Platform
+381,140,Distributed Computing
+382,140,Payments
+383,141,Platform
+384,141,Enterprise Solutions
+385,141,DAO
+386,142,Music
+387,142,DAO
+388,142,Coinbase Ventures Portfolio
+389,143,IoT
+390,143,Ethereum Ecosystem
+391,144,Gaming
+392,144,Memes
+393,144,Metaverse
+394,146,Platform
+395,146,Enterprise Solutions
+396,146,Interoperability
+397,147,Substrate
+398,147,Polkadot Ecosystem
+399,147,CMS Holdings Portfolio
+400,148,Mineable
+401,148,PoW
+402,148,Blake2b
+403,149,Privacy
+404,149,Zero Knowledge Proofs
+405,149,Identity
+406,150,Medium of Exchange
+407,150,DeFi
+408,150,Payments
+409,152,Collectibles & NFTs
+410,152,Gaming
+411,152,DAO
+412,153,DPoS
+413,153,Media
+414,153,Content Creation
+415,154,Platform
+416,154,Decentralized Exchange (DEX) Token
+417,154,DeFi
+418,155,PoW
+419,156,Enterprise Solutions
+420,156,Identity
+421,156,Metaverse
+422,157,Platform
+423,157,DeFi
+424,157,Staking
+425,158,Smart Contracts
+426,158,Substrate
+427,158,Polkadot
+428,159,Hardware
+429,159,IoT
+430,160,Cosmos Ecosystem
+431,160,DeFi
+432,160,Oracles
+433,161,Platform
+434,161,Interoperability
+435,161,Coinbase Ventures Portfolio
+436,162,Platform
+437,162,Enterprise Solutions
+438,162,Scaling
+439,163,Media
+440,163,Collectibles & NFTs
+441,163,Gaming
+442,164,Collectibles & NFTs
+443,164,Decentralized Exchange (DEX) Token
+444,164,DeFi
+445,165,Interoperability
+446,165,Ethereum Ecosystem
+447,165,Coinbase Ventures Portfolio
+448,166,Platform
+449,166,IoT
+450,166,Hashkey Capital Portfolio
+451,167,Gaming
+452,167,Metaverse
+453,167,Arbitrum Ecosystem
+454,168,Gaming
+455,168,Binance Launchpool
+456,168,Governance
+457,169,Cosmos Ecosystem
+458,169,Stablecoin
+459,169,Algorithmic Stablecoin
+460,170,Mineable
+461,170,PoW
+462,170,Blake2S
+463,171,Ethereum Ecosystem
+464,172,Marketplace
+465,173,Mineable
+466,173,PoW
+467,173,Platform
+468,174,Mineable
+469,174,PoW
+470,174,Multiple algorithms
+471,175,Ethereum Ecosystem
+472,175,Avalanche Ecosystem
+473,175,Polygon Ecosystem
+474,176,DeFi
+475,176,Governance
+476,176,Launchpad
+477,177,Privacy
+478,177,Payments
+479,178,Derivatives
+480,178,Coinbase Ventures Portfolio
+481,179,Platform
+482,180,Platform
+483,180,Scaling
+484,180,Smart Contracts
+485,181,Mineable
+486,181,PoW
+487,181,Distributed Computing
+488,182,DeFi
+489,182,Derivatives
+490,182,Oracles
+491,183,Mineable
+492,183,PoW
+493,183,Medium of Exchange
+494,184,Binance Launchpool
+495,184,MVB
+496,184,Spartan Group
+497,185,Store Of Value
+498,185,DeFi
+499,185,Coinbase Ventures Portfolio
+500,186,Platform
+501,186,Alameda Research Portfolio
+502,186,Injective Ecosystem
+503,187,Everscale Ecosystem
+504,188,DeFi
+505,188,Payments
+506,189,DPoS
+507,189,Platform
+508,189,Enterprise Solutions
+509,190,DAG
+510,190,Blake2b
+511,190,Medium of Exchange
+512,191,Platform
+513,191,Distributed Computing
+514,191,Filesharing
+515,193,Marketplace
+516,193,Decentralized Exchange (DEX) Token
+517,193,DeFi
+518,194,PoS
+519,194,Platform
+520,194,Cosmos Ecosystem
+521,195,Platform
+522,195,Enterprise Solutions
+523,195,Zero Knowledge Proofs
+524,196,Gaming
+525,196,Ethereum Ecosystem
+526,196,Metaverse
+527,198,Collectibles & NFTs
+528,198,Gaming
+529,198,Entertainment
+530,199,Media
+531,199,Content Creation
+532,199,Privacy
+533,200,SEC Security Token
